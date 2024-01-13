@@ -1,0 +1,27 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+|
+Lapp/src/main/java/com/github/marcelobenedito/amphibians/data/AppContainer.kt,a\e\aeb01a0923539ebd7ca3e085d60f1435dceb7173
+‡
+Wapp/src/main/java/com/github/marcelobenedito/amphibians/network/AmphibiansApiService.kt,4\e\4eea4bd082f89914413f48966fbea2a2b5768b5f
+|
+Lapp/src/main/java/com/github/marcelobenedito/amphibians/network/Amphibian.kt,1\e\1e650ed64da6cf86204d61de52c5b46889b4cb9f
+„
+Tapp/src/main/java/com/github/marcelobenedito/amphibians/data/AmphibiansRepository.kt,b\4\b406bbb371c571ab89af7da11a325fdaa1f65a0f
+‰
+Yapp/src/main/java/com/github/marcelobenedito/amphibians/ui/screens/AmphibiansViewModel.kt,4\8\484a33825f3af113453176ab5ba7f1479d39b4ac
+€
+Papp/src/main/java/com/github/marcelobenedito/amphibians/AmphibiansApplication.kt,6\a\6a1d5007a147d940084fb455bedfed35a521325b
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+€
+Papp/src/main/java/com/github/marcelobenedito/amphibians/ui/screens/HomeScreen.kt,2\7\27cadb9371b2415ac7b623e541957d89b00f2721
+w
+Gapp/src/main/java/com/github/marcelobenedito/amphibians/MainActivity.kt,f\3\f3ba38af7d9a4b49927e5dcc5f3e19f94cb3bdc0
+{
+Kapp/src/main/java/com/github/marcelobenedito/amphibians/ui/AmphibiansApp.kt,2\0\20806866ed9b83ce9d4f8fc7bbb4b7eb6ad372cb
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
